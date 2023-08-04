@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: f0F0;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+#blog-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+#blog-list li {
+  text-align: center;
+  margin: 100px 0;
+}
+
+#blog-list a {
+  color: red;
+  text-decoration: none;
+}
