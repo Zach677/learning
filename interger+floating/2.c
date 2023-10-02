@@ -1,3 +1,3 @@
 #include <stdio.h>
 
-int main(void) { printf("stdio"); }
+int main(void) { printf("yes"); }
