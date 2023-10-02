@@ -1,3 +1,4 @@
+#simple create jwt_secret_key
 import secrets
 import string
 
