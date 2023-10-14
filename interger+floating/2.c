@@ -3,9 +3,9 @@
 #include <stdlib.h>
 #include <string.h>
 
-int test();
+int test();//定义函数test
 
-int main() {
+int main() {   //验证结果
   bool success = false;
 
   int result = test();
